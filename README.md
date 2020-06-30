@@ -1,0 +1,2 @@
+# diy_gallery_ajax
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3b212ba1e1fa48f0898c02d7c4f6179d)](https://app.codacy.com/manual/mabdkus/diy_gallery_ajax?utm_source=github.com&utm_medium=referral&utm_content=mustafaabdullahk/diy_gallery_ajax&utm_campaign=Badge_Grade_Dashboard)
